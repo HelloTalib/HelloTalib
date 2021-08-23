@@ -9,18 +9,61 @@ Hi there! I'm Abu Talib. But everyone also known me as TALIB. I am a Software En
 ### 👨‍💻 Skills
 
 <table>
-HTML
-CSS
-BootsTrap
+  <tbody>
+    <tr valign="top">
+      <td width="14.28%" align="center">
+        <span>HTML</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>CSS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>BootsTrap</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Materialize</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>UIkit</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/uikit.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>SASS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Vue JS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Angular</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td>
+        <td width="14.28%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        </td>
+    </tr>
+      </tbody>
+</table>
 
-MeterilizeCSS
-SASS
-JavaScript
-jQuery
-AJAX
-VueJs
-VuetifyJs
-ReactJs
+<table>
   <tbody>
     <tr valign="top">
       <td width="14.28%" align="center">
