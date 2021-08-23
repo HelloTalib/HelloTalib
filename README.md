@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
-</p>
-
-![](https://talib.netlify.app/)
 ### 👋 Hey Guys I'm a Software Engineer
 Hi there! I'm Abu Talib. But everyone also known me as TALIB. I am a Software Engineer at BdThemes. I have over 3+ years of web developing experience in various languages. For me, sky's the limit.
 
@@ -20,6 +15,10 @@ Hi there! I'm Abu Talib. But everyone also known me as TALIB. I am a Software En
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="14.28%" align="center">
+        <span>UIkit</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/uikit.svg">
+      </td>
+      <td width="14.28%" align="center">
         <span>BootsTrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
@@ -28,37 +27,29 @@ Hi there! I'm Abu Talib. But everyone also known me as TALIB. I am a Software En
         <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>UIkit</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/uikit.svg">
-      </td>
-      <td width="14.28%" align="center">
         <span>SASS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Vue JS</span><br><br><br>
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>jQuery</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>VueJs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Angular</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
+        <span>VuetifyJs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vuetifyjs.svg">
       </td>
       <td width="14.28%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-      <td width="14.28%" align="center">
-        <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-      </td>
-        <td width="14.28%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-        </td>
     </tr>
       </tbody>
 </table>
@@ -67,53 +58,45 @@ Hi there! I'm Abu Talib. But everyone also known me as TALIB. I am a Software En
   <tbody>
     <tr valign="top">
       <td width="14.28%" align="center">
-        <span>HTML</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>CSS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>BootsTrap</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Materialize</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>JavaScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>UIkit</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/uikit.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>SASS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Vue JS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Angular</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/angular-icon.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="14.28%" align="center">
-        <span>Java</span><br><br><br>
+        <span>PHP</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
-        <td width="14.28%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-        </td>
+      <td width="14.28%" align="center">
+        <span>MYSQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>WordPress</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Elementor</span><br><br><br>
+        <img height="64px" src="https://elementor.com/wp-content/uploads/2020/09/elementor-logo.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>WooCommerce</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/woocommerce-icon.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>NodeJs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Firebase</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>ExpressJs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Github</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
+      </td>
     </tr>
       </tbody>
 </table>
