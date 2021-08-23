@@ -1,43 +1,55 @@
-### Hi there 👋
-
-<!--
-**abutalib4599/abutalib4599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100px">
 </p>
 
-![](https://still-brushlands-82734.herokuapp.com/countercheck)
+![](https://talib.netlify.app/)
 ### 👋 Hey Guys I'm a Software Engineer
-I'm currently working on opensource ideas of my own. Previously worked with many private repository clients now my goal is to promote projects for opensource communtiy.
+Hi there! I'm Abu Talib. But everyone also known me as TALIB. I am a Software Engineer at BdThemes. I have over 3+ years of web developing experience in various languages. For me, sky's the limit.
 
-### 👨‍💻 Tech Stack
+### 👨‍💻 Skills
 
 <table>
+HTML
+CSS
+BootsTrap
+
+MeterilizeCSS
+SASS
+JavaScript
+jQuery
+AJAX
+VueJs
+VuetifyJs
+ReactJs
   <tbody>
     <tr valign="top">
       <td width="14.28%" align="center">
-        <span>Flutter</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+        <span>HTML</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Javascript</span><br><br><br>
+        <span>CSS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>BootsTrap</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>Materialize</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/materializecss.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>JavaScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Nest JS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
+        <span>UIkit</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/uikit.svg">
+      </td>
+      <td width="14.28%" align="center">
+        <span>SASS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
       <td width="14.28%" align="center">
         <span>Vue JS</span><br><br><br>
@@ -53,7 +65,7 @@ I'm currently working on opensource ideas of my own. Previously worked with many
       </td>
       <td width="14.28%" align="center">
         <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
         <td width="14.28%" align="center">
         <span>Python</span><br><br><br>
@@ -67,7 +79,7 @@ I'm currently working on opensource ideas of my own. Previously worked with many
 <p align="center">
   <samp>
     <br><br>:coffee: Wanna chat? :point_right: @ me on
-    <a href="https://twitter.com/groverception" target=”_blank”>
+    <a href="https://twitter.com/abutalib4599/" target=”_blank”>
       <img src="https://cdn.svgporn.com/logos/twitter.svg" style="padding-top:10px"  width="20px"></a>
   </samp>
 </p>
