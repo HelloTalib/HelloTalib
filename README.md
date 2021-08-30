@@ -1,5 +1,5 @@
 ### 👋 Hey Guys I'm a Software Engineer
-Hi there! I'm Abu Talib. But everyone also known me as TALIB. I am a Software Engineer at BdThemes. I have over 3+ years of web developing experience in various languages. For me, sky's the limit.
+Currently I'm working as a Full time Software Engineer at <a href="https://bdthemes.com">BdThemes</a>. I have over 3+ years of web developing experience in various languages. For me, sky's the limit.
 
 ### 👨‍💻 Skills
 
@@ -105,7 +105,7 @@ Hi there! I'm Abu Talib. But everyone also known me as TALIB. I am a Software En
 <p align="center">
   <samp>
     <br><br>:coffee: Wanna chat? :point_right: @ me on
-    <a href="https://twitter.com/abutalib4599/" target=”_blank”>
+    <a href="https://facebook.com/abutalib4599/" target=”_blank”>
       <img src="https://cdn.svgporn.com/logos/twitter.svg" style="padding-top:10px"  width="20px"></a>
   </samp>
 </p>
