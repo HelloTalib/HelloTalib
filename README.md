@@ -4,7 +4,7 @@ Currently I'm working as a Full time Software Engineer at <a href="https://bdthe
 ---
 
 [![TALIB's github stats](https://github-readme-stats.vercel.app/api?username=abutalib4599&show_icons=true&theme=radical&hide=prs&count_private=true&card_width=48%)](https://github.com/abutalib4599/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abutalib4599&layout=compact&hide=scss,css&theme=radical&count_private=true&card_width=450px)](https://github.com/abutalib4599/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abutalib4599&layout=compact&hide=scss,css&theme=radical&count_private=true&card_width=450pxline_height=250px)](https://github.com/abutalib4599/github-readme-stats)
 
 ---
 
