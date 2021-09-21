@@ -1,11 +1,8 @@
 ### 👋 Hey Guys I'm a Software Engineer
 Currently I'm working as a Full time Software Engineer at <a href="https://bdthemes.com">BdThemes</a>. I have over 3+ years of web developing experience in various languages. For me, sky's the limit.
+
 ---
-[![kisuna](https://github-readme-stats.vercel.app/api?username=abutalib4599&hide_rank=true&theme=radical&&hide=stars,commits,prs,issues,contribs)
-
-[![TALIB's github stats](https://github-readme-stats.vercel.app/api?username=abutalib4599&show_icons=true&theme=radical&hide=prs&count_private=true)](https://github.com/abutalib4599/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abutalib4599&layout=compact&hide=scss,css&theme=radical&count_private=true&hide_rank=true&langs_count=16)](https://github.com/abutalib4599/github-readme-stats)
-
+[![TALIB's github stats](https://github-readme-stats.vercel.app/api?username=abutalib4599&show_icons=true&theme=radical&hide=prs&count_private=true)](https://github.com/abutalib4599/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abutalib4599&layout=compact&hide=scss,css&theme=radical&count_private=true&hide_rank=true&langs_count=16)](https://github.com/abutalib4599/github-readme-stats)
 ---
 
 ### 👨‍💻 Skills
