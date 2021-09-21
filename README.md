@@ -4,7 +4,7 @@ Currently I'm working as a Full time Software Engineer at <a href="https://bdthe
 ---
 
 [![TALIB's github stats](https://github-readme-stats.vercel.app/api?username=abutalib4599&show_icons=true&theme=radical)](https://github.com/abutalib4599/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abutalib4599)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
