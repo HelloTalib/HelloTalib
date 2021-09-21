@@ -1,6 +1,12 @@
 ### 👋 Hey Guys I'm a Software Engineer
 Currently I'm working as a Full time Software Engineer at <a href="https://bdthemes.com">BdThemes</a>. I have over 3+ years of web developing experience in various languages. For me, sky's the limit.
 
+---
+
+[![TALIB's github stats](https://github-readme-stats.vercel.app/api?username=abutalib4599&show_icons=true&theme=radical)](https://github.com/abutalib4599/github-readme-stats)
+
+---
+
 ### 👨‍💻 Skills
 
 <table>
@@ -100,11 +106,6 @@ Currently I'm working as a Full time Software Engineer at <a href="https://bdthe
     </tr>
       </tbody>
 </table>
----
-
-[![TALIB's github stats](https://github-readme-stats.vercel.app/api?username=abutalib4599&show_icons=true&theme=radical)](https://github.com/abutalib4599/github-readme-stats)
-
----
 
 <p align="center">
   <samp>
