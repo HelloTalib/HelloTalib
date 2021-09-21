@@ -100,7 +100,7 @@ Currently I'm working as a Full time Software Engineer at <a href="https://bdthe
     </tr>
       </tbody>
 </table>
-
+[![Mowmita's github stats](https://github-readme-stats.vercel.app/api?username=mowmitaahmed&show_icons=true&theme=radical)](https://github.com/mowmitaahmed/github-readme-stats)
 
 <p align="center">
   <samp>
