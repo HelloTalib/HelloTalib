@@ -3,14 +3,11 @@ Currently I'm working as a Full time Software Engineer at <a href="https://bdthe
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abutalib4599&show_icons=true&hide=prs&count_private=true)](https://github.com/abutalib4599/github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abutalib4599&layout=compact&hide=scss,css&count_private=true&hide_rank=true&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abutalib4599&layout=compact&hide=scss,css&count_private=true&hide_rank=true&langs_count=6)](https://github.com/abutalib4599/github-readme-stats)
-[![TALIB's github stats](https://github-readme-stats.vercel.app/api?username=abutalib4599&show_icons=true&hide=prs&count_private=true)](https://github.com/abutalib4599/github-readme-stats)
 
 ---
 ### 👨‍💻 Skills
