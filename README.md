@@ -19,7 +19,7 @@ Currently I'm working as a Full time Software Engineer at <a href="https://bdthe
       </td>
       <td width="14.28%" align="center">
         <span>Elementor</span><br><br><br>
-        <img style="object-fit:cover; height:54px; width:100px;" src="https://raw.githubusercontent.com/abutalib4599/logos/main/elementor.svg">
+        <img style="object-fit:cover; height:54px; width:100px;" src="https://raw.githubusercontent.com/abutalib4599/logos/main/elementor.svg?token=AIX47EXRQXJCCJRJC7YZBATBPIJTY">
       </td>
        <td width="14.28%" align="center">
         <span>PHP</span><br><br><br>
