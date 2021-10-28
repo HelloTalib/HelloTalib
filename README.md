@@ -19,7 +19,7 @@ Currently I'm working as a Full time Software Engineer at <a href="https://bdthe
       </td>
       <td width="14.28%" align="center">
         <span>Elementor</span><br><br><br>
-        <img width="300" height="350" src="https://www.mybestwebsitebuilder.com/storage/media/images/elementor-review-logo-small.o.png">
+        <img style="height:54px; object-fit:cover" src="https://www.mybestwebsitebuilder.com/storage/media/images/elementor-review-logo-small.o.png">
       </td>
        <td width="14.28%" align="center">
         <span>PHP</span><br><br><br>
