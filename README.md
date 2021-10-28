@@ -109,7 +109,7 @@ Currently I'm working as a Full time Software Engineer at <a href="https://bdthe
 <p align="center">
   <samp>
     <br><br>:coffee: Wanna chat? :point_right: @ me on
-    <a href="https://messenger.com/abutalib4599/" target=”_blank”>
-      <img src="https://cdn.svgporn.com/logos/massenger.svg" style="padding-top:10px"  width="20px"></a>
+    <a href="https://t.me/abutalib4599" target=”_blank”>
+      <img src="https://cdn.svgporn.com/logos/telegram.svg" style="padding-top:10px"  width="20px"></a>
   </samp>
 </p>
