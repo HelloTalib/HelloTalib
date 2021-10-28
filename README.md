@@ -37,6 +37,11 @@ Currently I'm working as a Full time Software Engineer at <a href="https://bdthe
         <span>jQuery</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/jquery.svg">
       </td>
+    </tr>
+      </tbody>
+</table>
+<table>
+  <tbody>
       <td width="14.28%" align="center">
         <span>VueJs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
@@ -49,14 +54,7 @@ Currently I'm working as a Full time Software Engineer at <a href="https://bdthe
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-    </tr>
-      </tbody>
-</table>
-
-<table>
-  <tbody>
-    <tr valign="top">
-     <td width="14.28%" align="center">
+    <td width="14.28%" align="center">
         <span>NodeJs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
@@ -72,6 +70,13 @@ Currently I'm working as a Full time Software Engineer at <a href="https://bdthe
         <span>ExpressJs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
+    </tr>
+      </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr valign="top">
        <td width="14.28%" align="center">
         <span>HTML</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
