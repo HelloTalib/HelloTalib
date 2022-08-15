@@ -21,8 +21,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/woocommerce-icon.svg">
       </td>
       <td width="14.28%" align="center">
-        <span>Elementor</span><br><br><br>
-        <img src="https://elementor.com/wp-content/uploads/2022/07/Elementor-Logo-Symbol-Blue.svg">
+        <span>Elementor</span><br><br>
+        <img src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Pink.svg">
       </td>
        <td width="14.28%" align="center">
         <span>PHP</span><br><br><br>
