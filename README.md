@@ -22,7 +22,7 @@
       </td>
       <td width="14.28%" align="center">
         <span>Elementor</span><br><br><br>
-        <img src="https://raw.githubusercontent.com/abutalib4599/logos/main/elementor.svg?token=AIX47EXRQXJCCJRJC7YZBATBPIJTY">
+        <img src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Pink.svg">
       </td>
        <td width="14.28%" align="center">
         <span>PHP</span><br><br><br>
