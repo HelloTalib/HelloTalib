@@ -7,8 +7,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=abutalib4599&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark" alt="abutalib4599" />
 </p>
 
-| ------------- | ------------- |
-| ------------- | ------------- |
 
 ### 👨‍💻 Skills
 
