@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ABU TALIB</h1>
 <h3 align="center">Software Engineer of <a href='https://bdthemes.com'>BDTHEMES</a></h3>
 
-| <a href="https://github.com/abutalib4599/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abutalib4599&show_icons=true&hide=prs&count_private=true" /></a>|<a href="https://github.com/abutalib4599/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abutalib4599&layout=compact&hide=html,css,scss&count_private=true&hide_rank=true&langs_count=6" alt="TALIB's github stats" /></a>|
+<a href="https://github.com/abutalib4599/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=abutalib4599&show_icons=true&hide=prs&count_private=true" /></a><a href="https://github.com/abutalib4599/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abutalib4599&layout=compact&hide=html,css,scss&count_private=true&hide_rank=true&langs_count=6" alt="TALIB's github stats" /></a>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abutalib4599&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark" alt="abutalib4599" />
