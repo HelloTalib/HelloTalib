@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm ABU TALIB</h1>
 <h3 align="center">Software Engineer of <a href='https://bdthemes.com'>BDTHEMES</a></h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=talibswe&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark" alt="talibswe" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HelloTalib&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark" alt="HelloTalib" />
 </p>
 
-| <a href="https://github.com/talibswe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talibswe&layout=compact&hide=css,scss&count_private=true&hide_rank=true&langs_count=6" alt="TALIB's github stats" /></a> | <a href="https://github.com/abutalib4599/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=talibswe&show_icons=true&hide=prs&count_private=true" /></a> |
+| <a href="https://github.com/talibswe/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloTalib&layout=compact&hide=css,scss&count_private=true&hide_rank=true&langs_count=6" alt="TALIB's github stats" /></a> | <a href="https://github.com/HelloTalib/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HelloTalib&show_icons=true&hide=prs&count_private=true" /></a> |
 | ------------- | ------------- |
 
 ### 👨‍💻 Skills
@@ -115,7 +115,7 @@
 <p align="center">
   <samp>
     <br><br>:coffee: Wanna chat? :point_right: @ me on
-    <a href="https://t.me/abutalib4599" target=”_blank”>
+    <a href="https://t.me/HelloTalib" target=”_blank”>
       <img src="https://cdn.svgporn.com/logos/telegram.svg" style="padding-top:10px"  width="20px"></a>
   </samp>
 </p>
