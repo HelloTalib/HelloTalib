@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm ABU TALIB</h1>
 <h3 align="center">Software Engineer of <a href='https://bdthemes.com'>BDTHEMES</a></h3>
+
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HelloTalib&row=1&column=7&margin-w=15&margin-h=15&theme=prussian" alt="HelloTalib" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HelloTalib&layout=compact&theme=prussian&langs_count=8&card_width=350" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HelloTalib&layout=compact&theme=prussian&langs_count=8&card_width=400" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HelloTalib&rank_icon=github&theme=prussian&card_width=250" />
 </p>
 
