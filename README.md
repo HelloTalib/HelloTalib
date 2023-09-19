@@ -3,13 +3,13 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HelloTalib&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark" alt="HelloTalib" />
 </p>
-
-<a href="https://github.com/HelloTalib/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HelloTalib\&rank_icon=github" />
-</a>
 <a href="https://github.com/HelloTalib/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HelloTalib&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HelloTalib&layout=compact&theme=prussian&langs_count=8&card_width=350" />
 </a>
+<a href="https://github.com/HelloTalib/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HelloTalib&rank_icon=github&theme=prussian&card_width=350" />
+</a>
+
 
 ### 👨‍💻 Skills
 
