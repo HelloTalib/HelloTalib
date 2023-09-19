@@ -4,9 +4,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HelloTalib&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=onedark" alt="HelloTalib" />
 </p>
 
-| <a href="https://github.com/HelloTalib/github-readme-stats">
+<a href="https://github.com/HelloTalib/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloTalib&layout=compact&hide=css,scss&count_private=true&hide_rank=true&langs_count=6" alt="TALIB's github stats" /></a>
-| ------------- | ------------- |
 
 ### 👨‍💻 Skills
 
