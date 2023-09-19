@@ -5,7 +5,11 @@
 </p>
 
 <a href="https://github.com/HelloTalib/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HelloTalib&layout=compact&hide=css,scss&count_private=true&hide_rank=true&langs_count=6" alt="TALIB's github stats" /></a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HelloTalib\&rank_icon=github" />
+</a>
+<a href="https://github.com/HelloTalib/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HelloTalib&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ### 👨‍💻 Skills
 
