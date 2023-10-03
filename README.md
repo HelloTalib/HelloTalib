@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HelloTalib&row=1&column=7&margin-w=15&margin-h=15&theme=prussian" alt="HelloTalib" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HelloTalib&layout=compact&theme=prussian&langs_count=8&card_width=380" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HelloTalib&layout=compact&theme=prussian&langs_count=8&card_width=370" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HelloTalib&rank_icon=github&theme=prussian&card_width=250" />
 </p>
 
