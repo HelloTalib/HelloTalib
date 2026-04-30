@@ -26,7 +26,7 @@
       </td>
       <td width="14.28%" align="center">
         <span>Elementor</span><br><br><br>
-        <img height="60px" src="https://cdn.svgporn.com/logos/elementor.svg">
+        <img height="60px" src="https://elementor.com/wp-content/uploads/2025/10/logo-symbol-1.svg">
       </td>
        <td width="14.28%" align="center">
         <span>PHP</span><br><br><br>
