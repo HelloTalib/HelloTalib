@@ -90,7 +90,7 @@
       </td>
       <td width="14.28%" align="center">
         <span>CSS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-next.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/css.svg">
       </td>
       <td width="14.28%" align="center">
         <span>UIkit</span><br><br><br>
